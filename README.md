@@ -1,0 +1,1 @@
+Se generará un número aleatorio con la función Random de la librería Math de javascrpit Se comprobará si es mayor o menor que 0.5 Se mostrará un mensaje en la consola informando si es mayor o menor que 0.5
